@@ -1,0 +1,153 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: white;
+    width: 75%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 20px auto;
+    text-align: center;
+}
+header{
+    height: 140px;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 30px;
+    text-align: center;
+    padding: 15px;
+    box-shadow:0 3px 3px 0 grey ;
+    background: #f6f6ec;
+}   
+h1{
+    color: green;
+}
+h1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.reg{
+    color: blueviolets;
+}
+span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+input{
+    width: 40%;
+    height: 25px;
+    border-radius: 20px;
+    border: 1px solid black;
+    
+}
+button{
+    width: 7%;
+    height: 25px;
+    text-align: center;
+    border-radius: 10px;
+    background: white;
+    border: 1px solid black;
+    outline: none;
+}
+button:hover{
+    background: silver;
+}
+.sec{
+    box-shadow:0 3px 3px 0 grey ;
+    border-radius: 20px;
+}
+
+.frist{
+   height:30px;
+   width: 100%;
+   border: 1px solid black;
+   background: silver;
+   border-top-left-radius:20px ;
+   border-top-right-radius: 20px;
+}
+.second{
+    height: 40px;
+    width: 100%;
+    border: 1px solid black;
+    background: white;
+    font-weight: bolder;
+    color: #181870;
+}
+.third{
+    height: 30px;
+    width: 100%;
+    border: 1px solid black;
+    background: silver;
+    font-weight: bolder;
+    color: #181870;
+}
+.fourth{
+    height:30px;
+   width: 100%;
+   border: 1px solid black;
+   background: #f6f6ec;
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+   font-weight: bolder;
+    color: #181870;
+}
+.sez{
+    box-shadow:0 3px 3px 0 grey ; 
+    border-radius: 20px; 
+}
+.bo1{
+    height:30px;
+   width: 100%;
+   border: 1px solid black;
+   background: silver;
+   border-top-left-radius:20px ;
+   border-top-right-radius: 20px;
+   font-weight: bolder;
+    color: #181870;
+}
+.bo2{
+    height: 30px;
+    width: 100%;
+    border: 1px solid black;
+    background: white; 
+    font-weight: bolder;
+    color: #181870;
+}
+.bo2:hover{
+      text-decoration: underline;
+}
+.bo3{
+    height:30px;
+    width: 100%;
+    border: 1px solid black;
+    background: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-weight: bolder;
+    color: #181870;
+}
+.cricle{
+    height: 70px;
+    width: 100;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow:0 3px 3px 0 grey ; 
+}
+.footer{
+    height: 90px;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow:0 3px 3px 0 grey ;
+    background: #f6f6ec;
+    
+}
+.pur{
+    color: purple;
+}
+
+
+ 
